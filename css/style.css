@@ -733,7 +733,7 @@ li.tab-list-1 {
 
 .service-info {
 	background-color: #FFF;
-	height: 400px;
+	/*--height: 400px;--*/
 	text-align: center;
 }
 /*--w3layouts--*/
@@ -1486,6 +1486,7 @@ textarea:active, textarea:focus {
 	}
 	.service-info {
 		padding-top: 30px;
+		border: 1px solid greenyellow;
 		/*--w3layouts--*/
 		/*--agileits--*/
 	}
